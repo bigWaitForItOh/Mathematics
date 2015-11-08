@@ -1,3 +1,8 @@
+/*
+	Euclidean GCD Algorithm to calculate Greatest Common Divisor of 2 Numbers
+	gcd (X, Y) where X & Y can be any integers, regardless of whether X > Y or the other way
+*/
+
 #include <iostream>
 using namespace std;
 
