@@ -14,3 +14,6 @@ Explanation, Analysis and Implementation of Mathematical &amp; Geometric algorit
 6. Factorial
 
 7. nCr
+
+8. Probability tree Method
+
