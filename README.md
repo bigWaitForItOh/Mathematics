@@ -10,3 +10,7 @@ Explanation, Analysis and Implementation of Mathematical &amp; Geometric algorit
 4. Rabin Miller Primality Test
 
 5. Sieve of Eratosthenes
+
+6. Factorial
+
+7. nCr
