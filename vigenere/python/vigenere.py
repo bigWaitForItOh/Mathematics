@@ -1,3 +1,5 @@
+#for capital letters only
+
 def encrypt_alphabet (alphabet, key):
     alpha_code = ord (alphabet) - ord ('A');
     alpha_code += (ord (key) - ord ('A'));
@@ -17,4 +19,4 @@ def vigenere_encrypt (message, digest):
 if (__name__ == '__main__'):
     message = input ('Enter message: ');
     key = input ('Enter key: ');
-    print ('Cipher Text: \n', vigenere (message, key));
+    print ('Cipher Text: \n', vigenere_encrypt (message, key));
